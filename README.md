@@ -1,7 +1,7 @@
 # Linux_Docker
 Docker image with Powershell Script execution
 
-# Build the docker iamge 
+# Build the docker image 
 you can first pull the Linux image so that you won't have to download it each time 
 Docker pull ubuntu: latest
 Then run the following command in the folder where the dockerfile and the powershell script are located 
